@@ -1,4 +1,4 @@
-##📦 ARCHIVED — Project completed. No further development planned.
+## 📦 ARCHIVED - Project completed. No further development planned.
 
 ## Marketplace
 Курсовая работа. Веб-приложение маркетплейс. С использованием технологий Django, Next.js.
